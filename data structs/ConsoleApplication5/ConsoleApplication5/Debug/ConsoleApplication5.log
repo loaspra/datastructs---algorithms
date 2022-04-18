@@ -1,0 +1,8 @@
+﻿  ConsoleApplication5.cpp
+C:\Users\olapu\source\repos\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(5,1): warning C4005: 'INFINITY': redefinición de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_math.h(90): message : vea la definición anterior de 'INFINITY'
+C:\Users\olapu\source\repos\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(485,1): warning C4305: 'inicializando': truncamiento de 'int' a 'float'
+C:\Users\olapu\source\repos\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(598,30): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\olapu\source\repos\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(641,34): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\olapu\source\repos\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(667,1): warning C4305: '=': truncamiento de 'int' a 'float'
+  ConsoleApplication5.vcxproj -> C:\Users\olapu\source\repos\ConsoleApplication5\Debug\ConsoleApplication5.exe

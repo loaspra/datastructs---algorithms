@@ -1,0 +1,25 @@
+﻿  Proyecto 1.cpp
+C:\Users\olapu\source\repos\Proyecto 1\Proyecto 1\Proyecto 1.cpp(49,11): warning C4018: '<=': no coinciden signed/unsigned
+C:\Users\olapu\source\repos\Proyecto 1\Proyecto 1\Proyecto 1.cpp(147,11): warning C4018: '<=': no coinciden signed/unsigned
+C:\Users\olapu\source\repos\Proyecto 1\Proyecto 1\Proyecto 1.cpp(226,24): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\olapu\source\repos\Proyecto 1\Proyecto 1\Proyecto 1.cpp(238,24): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\olapu\source\repos\Proyecto 1\Proyecto 1\Proyecto 1.cpp(262,11): warning C4018: '<=': no coinciden signed/unsigned
+C:\Users\olapu\source\repos\Proyecto 1\Proyecto 1\Proyecto 1.cpp(333,24): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\olapu\source\repos\Proyecto 1\Proyecto 1\Proyecto 1.cpp(345,24): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\olapu\source\repos\Proyecto 1\Proyecto 1\Proyecto 1.cpp(368,11): warning C4018: '<=': no coinciden signed/unsigned
+C:\Users\olapu\source\repos\Proyecto 1\Proyecto 1\Proyecto 1.cpp(451,11): warning C4018: '<=': no coinciden signed/unsigned
+C:\Users\olapu\source\repos\Proyecto 1\Proyecto 1\Proyecto 1.cpp(524,11): warning C4018: '<=': no coinciden signed/unsigned
+C:\Users\olapu\source\repos\Proyecto 1\Proyecto 1\Proyecto 1.cpp(596,11): warning C4018: '<=': no coinciden signed/unsigned
+C:\Users\olapu\source\repos\Proyecto 1\Proyecto 1\lista.h(128,2): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\olapu\source\repos\Proyecto 1\Proyecto 1\lista.h(126): message : al compilar la función del miembro clase plantilla "void ListaArreglo<int>::resize(void)"
+C:\Users\olapu\source\repos\Proyecto 1\Proyecto 1\lista.h(178): message : Vea la referencia a la creación de una instancia de la función plantilla "void ListaArreglo<int>::resize(void)" que se está compilando
+C:\Users\olapu\source\repos\Proyecto 1\Proyecto 1\Proyecto 1.cpp(57): message : Vea la referencia a la creación de una instancia de clase plantilla "ListaArreglo<int>" que se está compilando
+C:\Users\olapu\source\repos\Proyecto 1\Proyecto 1\cola.h(49,2): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\olapu\source\repos\Proyecto 1\Proyecto 1\cola.h(47): message : al compilar la función del miembro clase plantilla "void ACola<int>::resize(void)"
+C:\Users\olapu\source\repos\Proyecto 1\Proyecto 1\cola.h(74): message : Vea la referencia a la creación de una instancia de la función plantilla "void ACola<int>::resize(void)" que se está compilando
+C:\Users\olapu\source\repos\Proyecto 1\Proyecto 1\Proyecto 1.cpp(54): message : Vea la referencia a la creación de una instancia de clase plantilla "ACola<int>" que se está compilando
+C:\Users\olapu\source\repos\Proyecto 1\Proyecto 1\pila.h(66,2): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\olapu\source\repos\Proyecto 1\Proyecto 1\pila.h(64): message : al compilar la función del miembro clase plantilla "void APila<int>::resize(void)"
+C:\Users\olapu\source\repos\Proyecto 1\Proyecto 1\pila.h(114): message : Vea la referencia a la creación de una instancia de la función plantilla "void APila<int>::resize(void)" que se está compilando
+C:\Users\olapu\source\repos\Proyecto 1\Proyecto 1\Proyecto 1.cpp(51): message : Vea la referencia a la creación de una instancia de clase plantilla "APila<int>" que se está compilando
+  Proyecto 1.vcxproj -> C:\Users\olapu\source\repos\Proyecto 1\Debug\Proyecto 1.exe

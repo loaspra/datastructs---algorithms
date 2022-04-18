@@ -1,0 +1,62 @@
+﻿  Proyecto 2.cpp
+C:\Users\olapu\source\repos\Proyecto 2\Proyecto 2\Proyecto 2.cpp(22,24): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\olapu\source\repos\Proyecto 2\Proyecto 2\Proyecto 2.cpp(25,18): warning C4244: 'argumento': conversión de 'unsigned __int64' a 'E'; posible pérdida de datos
+          with
+          [
+              E=int
+          ]
+C:\Users\olapu\source\repos\Proyecto 2\Proyecto 2\Proyecto 2.cpp(28,17): warning C4244: 'argumento': conversión de 'unsigned __int64' a 'E'; posible pérdida de datos
+          with
+          [
+              E=int
+          ]
+C:\Users\olapu\source\repos\Proyecto 2\Proyecto 2\Proyecto 2.cpp(31,18): warning C4244: 'argumento': conversión de 'unsigned __int64' a 'E'; posible pérdida de datos
+          with
+          [
+              E=int
+          ]
+C:\Users\olapu\source\repos\Proyecto 2\Proyecto 2\Proyecto 2.cpp(34,25): warning C4244: '+=': conversión de '_Rep' a 'int'; posible pérdida de datos
+          with
+          [
+              _Rep=double
+          ]
+C:\Users\olapu\source\repos\Proyecto 2\Proyecto 2\Proyecto 2.cpp(52,24): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\olapu\source\repos\Proyecto 2\Proyecto 2\Proyecto 2.cpp(55,18): warning C4244: 'argumento': conversión de 'unsigned __int64' a 'E'; posible pérdida de datos
+          with
+          [
+              E=int
+          ]
+C:\Users\olapu\source\repos\Proyecto 2\Proyecto 2\Proyecto 2.cpp(58,17): warning C4244: 'argumento': conversión de 'unsigned __int64' a 'E'; posible pérdida de datos
+          with
+          [
+              E=int
+          ]
+C:\Users\olapu\source\repos\Proyecto 2\Proyecto 2\Proyecto 2.cpp(61,16): warning C4244: 'argumento': conversión de 'unsigned __int64' a 'E'; posible pérdida de datos
+          with
+          [
+              E=int
+          ]
+C:\Users\olapu\source\repos\Proyecto 2\Proyecto 2\Proyecto 2.cpp(64,24): warning C4244: '+=': conversión de '_Rep' a 'int'; posible pérdida de datos
+          with
+          [
+              _Rep=double
+          ]
+C:\Users\olapu\source\repos\Proyecto 2\Proyecto 2\Proyecto 2.cpp(81,24): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\olapu\source\repos\Proyecto 2\Proyecto 2\Proyecto 2.cpp(84,18): warning C4244: 'argumento': conversión de 'unsigned __int64' a 'E'; posible pérdida de datos
+          with
+          [
+              E=int
+          ]
+C:\Users\olapu\source\repos\Proyecto 2\Proyecto 2\Proyecto 2.cpp(89,17): warning C4244: 'argumento': conversión de 'unsigned __int64' a 'E'; posible pérdida de datos
+          with
+          [
+              E=int
+          ]
+C:\Users\olapu\source\repos\Proyecto 2\Proyecto 2\Proyecto 2.cpp(92,24): warning C4244: '+=': conversión de '_Rep' a 'int'; posible pérdida de datos
+          with
+          [
+              _Rep=double
+          ]
+C:\Users\olapu\source\repos\Proyecto 2\Proyecto 2\BinaryTree.h(251): warning C4715: 'BST<int>::remover': no todas las rutas de acceso de control devuelven un valor
+C:\Users\olapu\source\repos\Proyecto 2\Proyecto 2\BinaryTree.h(251): warning C4715: 'BST<__int64>::remover': no todas las rutas de acceso de control devuelven un valor
+  Proyecto 2.vcxproj -> C:\Users\olapu\source\repos\Proyecto 2\Debug\Proyecto 2.exe

@@ -1,0 +1,20 @@
+﻿  Examen Final.cpp
+C:\Users\olapu\source\repos\Examen Final\Examen Final\Examen Final.cpp(5,1): warning C4005: 'INFINITY': redefinición de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_math.h(90): message : vea la definición anterior de 'INFINITY'
+C:\Users\olapu\source\repos\Examen Final\Examen Final\Examen Final.cpp(500,1): warning C4305: 'inicializando': truncamiento de 'int' a 'float'
+C:\Users\olapu\source\repos\Examen Final\Examen Final\Examen Final.cpp(613,30): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\olapu\source\repos\Examen Final\Examen Final\Examen Final.cpp(656,34): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\olapu\source\repos\Examen Final\Examen Final\Examen Final.cpp(682,1): warning C4305: '=': truncamiento de 'int' a 'float'
+C:\Users\olapu\source\repos\Examen Final\Examen Final\Examen Final.cpp(312,30): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\olapu\source\repos\Examen Final\Examen Final\Examen Final.cpp(309): message : al compilar la función del miembro clase plantilla "Diccionario_open<std::string,int>::Diccionario_open(E,int)"
+          with
+          [
+              E=int
+          ]
+C:\Users\olapu\source\repos\Examen Final\Examen Final\Examen Final.cpp(752): message : Vea la referencia a la creación de una instancia de la función plantilla "Diccionario_open<std::string,int>::Diccionario_open(E,int)" que se está compilando
+          with
+          [
+              E=int
+          ]
+C:\Users\olapu\source\repos\Examen Final\Examen Final\Examen Final.cpp(752): message : Vea la referencia a la creación de una instancia de clase plantilla "Diccionario_open<std::string,int>" que se está compilando
+  Examen Final.vcxproj -> C:\Users\olapu\source\repos\Examen Final\Debug\Examen Final.exe

@@ -1,0 +1,10 @@
+﻿  Col1.cpp
+C:\Users\olapu\source\repos\Col1\Col1\Col1.cpp(83,23): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\olapu\source\repos\Col1\Col1\Col1.cpp(95,23): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\olapu\source\repos\Col1\Col1\Col1.cpp(131,24): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\olapu\source\repos\Col1\Col1\Col1.cpp(136,24): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\olapu\source\repos\Col1\Col1\Col1.cpp(149,24): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\olapu\source\repos\Col1\Col1\Col1.cpp(166,25): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\olapu\source\repos\Col1\Col1\Col1.cpp(169,26): warning C4018: '<=': no coinciden signed/unsigned
+C:\Users\olapu\source\repos\Col1\Col1\Col1.cpp(186,24): warning C4018: '<': no coinciden signed/unsigned
+  Col1.vcxproj -> C:\Users\olapu\source\repos\Col1\Debug\Col1.exe

@@ -1,0 +1,15 @@
+﻿  EC2.cpp
+C:\Users\olapu\source\repos\EC2\EC2\EC2.cpp(6,1): warning C4005: 'INFINITY': redefinición de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_math.h(90): message : vea la definición anterior de 'INFINITY'
+C:\Users\olapu\source\repos\EC2\EC2\EC2.cpp(378,1): warning C4305: 'inicializando': truncamiento de 'int' a 'float'
+C:\Users\olapu\source\repos\EC2\EC2\EC2.cpp(495,1): warning C4267: 'argumento': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\olapu\source\repos\EC2\EC2\EC2.cpp(544,37): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\olapu\source\repos\EC2\EC2\EC2.cpp(545,1): warning C4267: 'argumento': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\olapu\source\repos\EC2\EC2\EC2.cpp(550,1): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\olapu\source\repos\EC2\EC2\EC2.cpp(580,1): warning C4267: 'argumento': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\olapu\source\repos\EC2\EC2\EC2.cpp(582,1): warning C4267: 'argumento': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\olapu\source\repos\EC2\EC2\EC2.cpp(583,1): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\olapu\source\repos\EC2\EC2\EC2.cpp(608,1): warning C4305: '=': truncamiento de 'int' a 'float'
+C:\Users\olapu\source\repos\EC2\EC2\EC2.cpp(636,1): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\olapu\source\repos\EC2\EC2\EC2.cpp(639,32): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+  EC2.vcxproj -> C:\Users\olapu\source\repos\EC2\x64\Debug\EC2.exe

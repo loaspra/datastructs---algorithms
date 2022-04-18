@@ -1,0 +1,9 @@
+﻿  asdfasasdfasf.cpp
+C:\Users\olapu\source\repos\asdfasasdfasf\asdfasasdfasf\asdfasasdfasf.cpp(6,1): warning C4005: 'INFINITY': redefinición de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_math.h(90): message : vea la definición anterior de 'INFINITY'
+C:\Users\olapu\source\repos\asdfasasdfasf\asdfasasdfasf\asdfasasdfasf.cpp(19,1): warning C4305: 'inicializando': truncamiento de 'int' a 'float'
+C:\Users\olapu\source\repos\asdfasasdfasf\asdfasasdfasf\asdfasasdfasf.cpp(123,30): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\olapu\source\repos\asdfasasdfasf\asdfasasdfasf\asdfasasdfasf.cpp(171,34): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\olapu\source\repos\asdfasasdfasf\asdfasasdfasf\asdfasasdfasf.cpp(198,1): warning C4305: '=': truncamiento de 'int' a 'float'
+C:\Users\olapu\source\repos\asdfasasdfasf\asdfasasdfasf\asdfasasdfasf.cpp(238,23): warning C4018: '<': no coinciden signed/unsigned
+  asdfasasdfasf.vcxproj -> C:\Users\olapu\source\repos\asdfasasdfasf\Debug\asdfasasdfasf.exe

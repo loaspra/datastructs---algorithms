@@ -1,0 +1,5 @@
+﻿  Pregunta1.cpp
+C:\Users\olapu\source\repos\Pregunta1\Pregunta1\Pregunta1.cpp(15,16): warning C4244: 'inicializando': conversión de 'unsigned __int64' a 'unsigned int'; posible pérdida de datos
+C:\Users\olapu\source\repos\Pregunta1\Pregunta1\Pregunta1.cpp(28,24): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\olapu\source\repos\Pregunta1\Pregunta1\Pregunta1.cpp(30,20): warning C4244: '=': conversión de 'unsigned __int64' a 'unsigned int'; posible pérdida de datos
+  Pregunta1.vcxproj -> C:\Users\olapu\source\repos\Pregunta1\Debug\Pregunta1.exe

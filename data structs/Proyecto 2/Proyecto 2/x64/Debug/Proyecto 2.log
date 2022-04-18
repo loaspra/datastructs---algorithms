@@ -1,0 +1,44 @@
+﻿  Proyecto 2.cpp
+C:\Users\olapu\source\repos\Proyecto 2\Proyecto 2\GrafoMatrix.h(142,1): warning C4267: 'argumento': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\olapu\source\repos\Proyecto 2\Proyecto 2\Proyecto 2.cpp(18,16): warning C4244: 'inicializando': conversión de 'unsigned __int64' a 'unsigned int'; posible pérdida de datos
+C:\Users\olapu\source\repos\Proyecto 2\Proyecto 2\Proyecto 2.cpp(33,20): warning C4244: '=': conversión de 'unsigned __int64' a 'unsigned int'; posible pérdida de datos
+C:\Users\olapu\source\repos\Proyecto 2\Proyecto 2\Proyecto 2.cpp(55,19): warning C4244: '=': conversión de 'unsigned __int64' a 'unsigned int'; posible pérdida de datos
+C:\Users\olapu\source\repos\Proyecto 2\Proyecto 2\Proyecto 2.cpp(59,20): warning C4244: '=': conversión de 'unsigned __int64' a 'unsigned int'; posible pérdida de datos
+C:\Users\olapu\source\repos\Proyecto 2\Proyecto 2\Proyecto 2.cpp(80,19): warning C4244: '=': conversión de 'unsigned __int64' a 'unsigned int'; posible pérdida de datos
+C:\Users\olapu\source\repos\Proyecto 2\Proyecto 2\Proyecto 2.cpp(84,20): warning C4244: '=': conversión de 'unsigned __int64' a 'unsigned int'; posible pérdida de datos
+C:\Users\olapu\source\repos\Proyecto 2\Proyecto 2\Proyecto 2.cpp(107,20): warning C4244: '=': conversión de 'unsigned __int64' a 'unsigned int'; posible pérdida de datos
+C:\Users\olapu\source\repos\Proyecto 2\Proyecto 2\Proyecto 2.cpp(129,19): warning C4244: '=': conversión de 'unsigned __int64' a 'unsigned int'; posible pérdida de datos
+C:\Users\olapu\source\repos\Proyecto 2\Proyecto 2\Proyecto 2.cpp(133,20): warning C4244: '=': conversión de 'unsigned __int64' a 'unsigned int'; posible pérdida de datos
+C:\Users\olapu\source\repos\Proyecto 2\Proyecto 2\Proyecto 2.cpp(154,19): warning C4244: '=': conversión de 'unsigned __int64' a 'unsigned int'; posible pérdida de datos
+C:\Users\olapu\source\repos\Proyecto 2\Proyecto 2\Proyecto 2.cpp(158,20): warning C4244: '=': conversión de 'unsigned __int64' a 'unsigned int'; posible pérdida de datos
+C:\Users\olapu\source\repos\Proyecto 2\Proyecto 2\Proyecto 2.cpp(339,19): warning C4244: 'argumento': conversión de 'double' a 'const _Ty'; posible pérdida de datos
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\olapu\source\repos\Proyecto 2\Proyecto 2\Proyecto 2.cpp(340,19): warning C4244: 'argumento': conversión de 'double' a 'const _Ty'; posible pérdida de datos
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\olapu\source\repos\Proyecto 2\Proyecto 2\Proyecto 2.cpp(445,22): warning C4244: '=': conversión de 'unsigned __int64' a 'unsigned int'; posible pérdida de datos
+C:\Users\olapu\source\repos\Proyecto 2\Proyecto 2\BinaryTree.h(171,1): warning C4267: 'argumento': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\olapu\source\repos\Proyecto 2\Proyecto 2\BinaryTree.h(138): message : al compilar la función del miembro clase plantilla "E BST<E>::remover(E)"
+          with
+          [
+              E=int
+          ]
+C:\Users\olapu\source\repos\Proyecto 2\Proyecto 2\Proyecto 2.cpp(65): message : Vea la referencia a la creación de una instancia de la función plantilla "E BST<E>::remover(E)" que se está compilando
+          with
+          [
+              E=int
+          ]
+C:\Users\olapu\source\repos\Proyecto 2\Proyecto 2\Proyecto 2.cpp(16): message : Vea la referencia a la creación de una instancia de clase plantilla "BST<int>" que se está compilando
+C:\Users\olapu\source\repos\Proyecto 2\Proyecto 2\BinaryTree.h(178,1): warning C4267: 'argumento': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\olapu\source\repos\Proyecto 2\Proyecto 2\BinaryTree.h(182,1): warning C4267: 'argumento': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\olapu\source\repos\Proyecto 2\Proyecto 2\BinaryTree.h(133,1): warning C4267: 'argumento': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\olapu\source\repos\Proyecto 2\Proyecto 2\BinaryTree.h(130): message : al compilar la función del miembro clase plantilla "void BST<int>::balancear(void)"
+C:\Users\olapu\source\repos\Proyecto 2\Proyecto 2\Proyecto 2.cpp(204): message : Vea la referencia a la creación de una instancia de la función plantilla "void BST<int>::balancear(void)" que se está compilando
+C:\Users\olapu\source\repos\Proyecto 2\Proyecto 2\BinaryTree.h(190): warning C4715: 'BST<int>::remover': no todas las rutas de acceso de control devuelven un valor
+C:\Users\olapu\source\repos\Proyecto 2\Proyecto 2\GrafoList.h(335): warning C4715: 'GrafoL::conjunto': no todas las rutas de acceso de control devuelven un valor
+  Proyecto 2.vcxproj -> C:\Users\olapu\source\repos\Proyecto 2\x64\Debug\Proyecto 2.exe

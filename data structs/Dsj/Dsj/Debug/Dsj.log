@@ -1,0 +1,4 @@
+﻿  Dsj.cpp
+C:\Users\olapu\source\repos\Dsj\Dsj\Dsj.cpp(115,26): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\olapu\source\repos\Dsj\Dsj\Dsj.cpp(119,30): warning C4018: '<': no coinciden signed/unsigned
+  Dsj.vcxproj -> C:\Users\olapu\source\repos\Dsj\Debug\Dsj.exe

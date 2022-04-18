@@ -1,0 +1,100 @@
+#include <iostream>
+#include <vector>
+using namespace std;
+
+
+void imprimir(int* x, int* N)
+{
+    for (size_t i = 0; i < *N; i++)
+    {
+        cout << *(x + i) << "_";
+    }
+    cout << endl;
+    return;
+}
+
+
+void ordenar(int* x, int* N)
+{
+    int min;
+    int c = 0, l = 0;
+    while (c < (*N))
+    {
+        min = 1000000;
+        for (size_t i = c; i < *N; i++)
+        {
+            if (*(x + i) < min)
+            {
+                min = *(x + i);
+                l = i;
+            }
+        }
+        auto aux = *(x + c);
+        *(x + c) = min;
+        *(x + l) = aux;
+        c++;
+    }
+}
+
+
+int maX(int* x, int* N)
+{
+    int max = NULL;
+    for (size_t a = 0; a < *N; a++)
+    {
+        if (max < *(x + a))
+        {
+            max = *(x + a);
+        }
+    }
+    return max;
+}
+
+int miN(int* x, int* N)
+{
+    int min = 1000000;
+    for (size_t a = 0; a < *N; a++)
+    {
+        if (min > *(x + a))
+        {
+            min = *(x + a);
+        }
+    }
+    return min;
+}
+
+int main()
+{	
+    int* N = new int;
+    int aux, min = 1000000, max = NULL;
+	double sum = 0;
+	cin >> *N;
+    int** a = new int*[*N];
+    int* rpta = new int[*N];
+    int* vector = new int[*N];
+
+
+	for (size_t i = 0; i < *N; i++)
+	{
+        *(a + i) = new int[*N];
+		for (size_t j = 0; j < *N; j++)
+		{
+			cin >> aux;
+            *(*(a + i) + j) = aux;
+		}
+        ordenar(*(a + i), new int(*N));
+	}
+
+    for (size_t i = 0; i < *N; i++)
+    {
+        *(vector + i) = *(*(a + i) + 1);
+    }
+
+    min = miN(vector, N);
+
+
+
+
+
+	return 0;
+}

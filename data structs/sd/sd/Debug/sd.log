@@ -1,0 +1,11 @@
+﻿  sd.cpp
+C:\Users\olapu\source\repos\sd\sd\sd.cpp(5,1): warning C4005: 'INFINITY': redefinición de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_math.h(90): message : vea la definición anterior de 'INFINITY'
+C:\Users\olapu\source\repos\sd\sd\sd.cpp(369,1): warning C4305: 'inicializando': truncamiento de 'int' a 'float'
+C:\Users\olapu\source\repos\sd\sd\sd.cpp(482,30): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\olapu\source\repos\sd\sd\sd.cpp(532,34): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\olapu\source\repos\sd\sd\sd.cpp(536,37): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\olapu\source\repos\sd\sd\sd.cpp(568,34): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\olapu\source\repos\sd\sd\sd.cpp(600,1): warning C4305: '=': truncamiento de 'int' a 'float'
+C:\Users\olapu\source\repos\sd\sd\sd.cpp(631,32): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+  sd.vcxproj -> C:\Users\olapu\source\repos\sd\Debug\sd.exe

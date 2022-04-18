@@ -1,0 +1,31 @@
+void selection_sort(ListaArreglo<int>* arreglo) 
+{
+    arreglo->moverAInicio();
+    int* menor = new int(0);
+    int* pos = new int(0);
+    int* c = new int(0);
+    int* i = new int(arreglo->longitud());
+
+    while (*i > 0)
+    {
+        *menor = 100;
+        for (arreglo->moverAPosicion(*c); arreglo->posicionActual() < arreglo->longitud(); arreglo->siguiente())
+        {
+            if (*menor > arreglo->getValor())
+            {
+                *menor = arreglo->getValor();
+                *pos = arreglo->posicionActual();
+            }
+        }
+
+        arreglo->moverAPosicion(*c);
+        int* aux = new int(arreglo->getValor());
+        arreglo->putValue(*c, *menor);
+        arreglo->putValue(*pos, *aux);
+        *i = *i - 1;
+        *c = *c + 1;
+
+
+    }
+
+}

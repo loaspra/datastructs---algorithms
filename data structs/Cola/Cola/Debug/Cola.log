@@ -1,0 +1,4 @@
+﻿  Cola.cpp
+C:\Users\olapu\source\repos\Cola\Cola\Cola.cpp(7,1): warning C4326: el tipo de valor devuelto de 'main' debe ser 'int' en lugar de 'void'
+C:\Users\olapu\source\repos\Cola\Cola\Cola.cpp(56,5): error C2562: 'main': función void' que devuelve un valor
+C:\Users\olapu\source\repos\Cola\Cola\Cola.cpp(6): message : vea la declaración de 'main'

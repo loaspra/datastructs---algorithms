@@ -1,0 +1,23 @@
+#include <iostream>
+#include <fstream>
+#include <random>
+using namespace std;
+
+int main()
+{
+
+	random_device rd;	//semilla
+	default_random_engine generator(rd());		//motor
+	uniform_int_distribution<long long unsigned> distribution(0, 0xF424F1);		//rango
+	ofstream myfile;
+	myfile.open("dataset.txt");
+	auto a = distribution(generator);
+	for (size_t i = 0; i < 50000; i++)
+	{
+		a = distribution(generator);
+		myfile << a << "\n";
+		cout << a << "-";
+	}
+
+	myfile.close();
+}

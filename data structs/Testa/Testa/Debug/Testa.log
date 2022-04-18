@@ -1,0 +1,19 @@
+﻿  Testa.cpp
+C:\Users\olapu\source\repos\Testa\Testa\Testa.cpp(263,21): warning C4244: 'inicializando': conversión de 'unsigned int' a 'float'; posible pérdida de datos
+C:\Users\olapu\source\repos\Testa\Testa\Testa.cpp(256): message : al compilar la función del miembro clase plantilla "int ArbolBinarioArreglo<int *>::eliminar(E,std::vector<int,std::allocator<int>> &)"
+          with
+          [
+              E=int *
+          ]
+C:\Users\olapu\source\repos\Testa\Testa\Testa.cpp(334): message : Vea la referencia a la creación de una instancia de la función plantilla "int ArbolBinarioArreglo<int *>::eliminar(E,std::vector<int,std::allocator<int>> &)" que se está compilando
+          with
+          [
+              E=int *
+          ]
+C:\Users\olapu\source\repos\Testa\Testa\Testa.cpp(322): message : Vea la referencia a la creación de una instancia de clase plantilla "ArbolBinarioArreglo<int *>" que se está compilando
+C:\Users\olapu\source\repos\Testa\Testa\Testa.cpp(272,21): warning C4244: 'argumento': conversión de 'float' a 'const unsigned int'; posible pérdida de datos
+C:\Users\olapu\source\repos\Testa\Testa\Testa.cpp(277,38): warning C4244: 'argumento': conversión de 'float' a 'const unsigned int'; posible pérdida de datos
+C:\Users\olapu\source\repos\Testa\Testa\Testa.cpp(283,27): warning C4244: 'argumento': conversión de 'float' a 'const unsigned int'; posible pérdida de datos
+C:\Users\olapu\source\repos\Testa\Testa\Testa.cpp(286,42): warning C4244: 'argumento': conversión de 'float' a 'const unsigned int'; posible pérdida de datos
+C:\Users\olapu\source\repos\Testa\Testa\Testa.cpp(287,42): warning C4244: 'argumento': conversión de 'float' a 'const unsigned int'; posible pérdida de datos
+  Testa.vcxproj -> C:\Users\olapu\source\repos\Testa\Debug\Testa.exe

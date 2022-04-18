@@ -1,0 +1,26 @@
+﻿  Proyecto 1.cpp
+C:\Users\olapu\source\repos\Proyecto 1\Proyecto 1\Proyecto 1.cpp(227,26): warning C4267: 'argumento': conversión de 'size_t' a 'E'; posible pérdida de datos
+          with
+          [
+              E=int
+          ]
+C:\Users\olapu\source\repos\Proyecto 1\Proyecto 1\Proyecto 1.cpp(239,26): warning C4267: 'argumento': conversión de 'size_t' a 'E'; posible pérdida de datos
+          with
+          [
+              E=int
+          ]
+C:\Users\olapu\source\repos\Proyecto 1\Proyecto 1\Proyecto 1.cpp(333,26): warning C4267: 'argumento': conversión de 'size_t' a 'E'; posible pérdida de datos
+          with
+          [
+              E=int
+          ]
+C:\Users\olapu\source\repos\Proyecto 1\Proyecto 1\Proyecto 1.cpp(345,26): warning C4267: 'argumento': conversión de 'size_t' a 'E'; posible pérdida de datos
+          with
+          [
+              E=int
+          ]
+  Generando código
+  Previous IPDB not found, fall back to full compilation.
+  All 313 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Generación de código finalizada
+  Proyecto 1.vcxproj -> C:\Users\olapu\source\repos\Proyecto 1\x64\Release\Proyecto 1.exe

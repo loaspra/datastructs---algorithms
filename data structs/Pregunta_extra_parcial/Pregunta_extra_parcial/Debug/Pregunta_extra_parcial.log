@@ -1,0 +1,5 @@
+﻿  Pregunta_extra_parcial.cpp
+C:\Users\olapu\source\repos\Pregunta_extra_parcial\Pregunta_extra_parcial\Pregunta_extra_parcial.cpp(357,26): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\olapu\source\repos\Pregunta_extra_parcial\Pregunta_extra_parcial\Pregunta_extra_parcial.cpp(364,30): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\olapu\source\repos\Pregunta_extra_parcial\Pregunta_extra_parcial\Pregunta_extra_parcial.cpp(370,34): warning C4018: '<': no coinciden signed/unsigned
+  Pregunta_extra_parcial.vcxproj -> C:\Users\olapu\source\repos\Pregunta_extra_parcial\Debug\Pregunta_extra_parcial.exe

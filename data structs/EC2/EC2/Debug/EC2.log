@@ -1,0 +1,12 @@
+﻿  EC2.cpp
+C:\Users\olapu\source\repos\EC2\EC2\EC2.cpp(6,1): warning C4005: 'INFINITY': redefinición de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_math.h(90): message : vea la definición anterior de 'INFINITY'
+C:\Users\olapu\source\repos\EC2\EC2\EC2.cpp(378,1): warning C4305: 'inicializando': truncamiento de 'int' a 'float'
+C:\Users\olapu\source\repos\EC2\EC2\EC2.cpp(491,30): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\olapu\source\repos\EC2\EC2\EC2.cpp(541,34): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\olapu\source\repos\EC2\EC2\EC2.cpp(545,37): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\olapu\source\repos\EC2\EC2\EC2.cpp(577,34): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\olapu\source\repos\EC2\EC2\EC2.cpp(609,1): warning C4305: '=': truncamiento de 'int' a 'float'
+C:\Users\olapu\source\repos\EC2\EC2\EC2.cpp(634,29): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\olapu\source\repos\EC2\EC2\EC2.cpp(645,41): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+  EC2.vcxproj -> C:\Users\olapu\source\repos\EC2\Debug\EC2.exe
